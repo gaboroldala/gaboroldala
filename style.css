@@ -16,3 +16,15 @@
     color: #fff;
     padding: 5px 10px;
 }
+/* Alapstílus */
+h1 {
+    text-align: center; /* Középre igazítás */
+    font-size: 24px; /* Változtathatod a betűméretet */
+}
+
+/* Media query mobil eszközökhöz */
+@media (max-width: 768px) {
+    h1 {
+        margin-top: 20px; /* Változtathatod a felfelé elmozdulás mértékét */
+    }
+}
