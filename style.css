@@ -17,9 +17,11 @@
     padding: 5px 10px;
 }
 /* Alapstílus */
+/* Alapstílus */
 h1 {
     text-align: center; /* Középre igazítás */
     font-size: 24px; /* Változtathatod a betűméretet */
+    margin-top: 0; /* Alapértelmezett felső margó */
 }
 
 /* Media query mobil eszközökhöz */
