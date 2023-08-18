@@ -6,3 +6,19 @@
 .social-icon:hover {
   color: #2b6948
 }
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Válaszd a megfelelő magasságot */
+    background-color: #f0f0f0;
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px; /* Tetszőleges margó a jobb felső saroktól */
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+}
