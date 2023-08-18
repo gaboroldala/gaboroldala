@@ -1,6 +1,7 @@
 .social-icon {
   color: #B9D461
   transition: color 0.2s;
+  text-deccoration: none;
 }
 .social-icon:hover {
   color: #2b6948
